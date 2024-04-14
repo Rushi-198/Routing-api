@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-3" *ngFor="let prd of arr">
+            <div class="card-header">
+                {{prd.title}}
+            </div>
+            <div class="card-body">
+
+                {{prd.id}}
+                {{prd.description}}
+
+
+            </div>
+            <div class="card-footer">
+                <button class="btn btn-primary" [routerLink]="['/products',prd.id]">show more</button>
+            </div>
+        </div>
+    </div>
+</div>

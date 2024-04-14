@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "dfgrth",
+      "content": "thtyj",
+      "id": 2
+    },
+    {
+      "title": "d",
+      "content": "dr",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone",
+      "description": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Iphone2",
+      "description": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "Iphone4",
+      "description": "typicode"
+    },
+    {
+      "title": "asc",
+      "description": "asd",
+      "id": 5
+    },
+    {
+      "title": "fgh",
+      "description": "fgh",
+      "id": 6
+    },
+    {
+      "title": "huo",
+      "description": "yuo",
+      "id": 7
+    },
+    {
+      "title": "sf",
+      "description": "wdhv",
+      "id": 8
+    },
+    {
+      "title": "t",
+      "description": "tfn",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
